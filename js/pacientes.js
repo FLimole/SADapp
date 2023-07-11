@@ -70,7 +70,7 @@ const { createApp } = Vue
             fetch(this.url, options)
                 .then(function () {
                     alert("Paciente guardado")
-                    window.location.href = "./pacientes.html";  // recarga productos.html
+                    window.location.href = "./index.html";  // recarga productos.html
                 })
                 .catch(err => {
                     console.error(err);

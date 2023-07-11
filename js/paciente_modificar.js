@@ -55,7 +55,7 @@ const { createApp } = Vue
             fetch(this.url, options)
                 .then(function () {
                     alert("Paciente actualizado")
-                    window.location.href = "./pacientes.html"; // navega a productos.html          
+                    window.location.href = "./index.html"; // navega a productos.html          
                 })
                 .catch(err => {
                     console.error(err);

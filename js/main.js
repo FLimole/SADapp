@@ -11,7 +11,7 @@ document.getElementById("header-ind").innerHTML = `
     </button>
     <ul class="navbar-nav">
         <li class="nav-item">
-            <a class="nav-link" href="pacientes.html">PACIENTES</a>
+            <a class="nav-link" href="index.html">PACIENTES</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="doctores.html">DOCTORES</a>

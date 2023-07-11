@@ -6,6 +6,6 @@ window.addEventListener("load", function() {
   // Agregar un controlador de eventos al hacer clic en la imagen del logo
   logoImage.addEventListener("click", function() {
     // Redirigir a la página "pacientes.html"
-    window.location.href = "pacientes.html";
+    window.location.href = "index.html";
   });
 });
