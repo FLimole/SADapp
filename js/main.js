@@ -1,8 +1,8 @@
-document.getElementById("header").innerHTML = ` 
+document.getElementById("header-ind").innerHTML = ` 
 <nav class="navbar navbar-expand-sm navbar-light bg-light ">
   <div class="container-fluid">
     <a class="navbar-brand" href="pacientes.html">
-      <img src="./imagenes/9de35a8e24d97b8bd01f4a2ec393b311.jpg" alt="Logo" id="logo" class="logo">
+    <img src="./imagenes/9de35a8e24d97b8bd01f4a2ec393b311.jpg" alt="Logo" id="logo" class="logo">
       DANDELION
     </a>
     <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavId"
@@ -22,6 +22,8 @@ document.getElementById("header").innerHTML = `
     </ul>
   </div>
 </nav>`;
+
+
 
 
 
