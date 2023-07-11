@@ -1,0 +1,30 @@
+body {
+    overflow-x: hidden;
+    background-image: url(../imagenes/semilla-diente-leon-negro-macro-naturaleza_87394-9459.avif) ;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: repeat;
+    z-index: 0;
+}
+
+.logo{
+    width: 10%;
+    height: auto;
+
+}
+
+main .table{
+    text-align: center;
+}
+
+main{
+    max-width: 100%;
+}
+
+main h1{
+    padding-top: 4%;
+}
+
+main .container2{
+    padding-top: 10%;
+}
