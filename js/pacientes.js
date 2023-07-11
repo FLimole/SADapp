@@ -77,7 +77,7 @@ const { createApp } = Vue
                     alert("Error al Guardar")  // puedo mostrar el error tambien
                 });
         },
-        buscarPaciente() {
+       /* buscarPaciente() {
             console.log("Buscando..")
             this.error = false;
             this.cargando = true;
@@ -99,7 +99,7 @@ const { createApp } = Vue
                 console.error(err);
                 this.error = true;
               });
-          }
+          }*/
                        
         },
           created() {
